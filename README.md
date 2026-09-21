@@ -13,7 +13,7 @@ Ham veri, doğrudan analiz edilmek yerine normalizasyon ve boyutlandırma adıml
 * **Olgu Tablosu (Fact Table):** `fact_campaign_performance` (Tüm boyut tablolarına FK referansları, metrikler ve tarih alanı).
 
 ### 📐 SQL Server Veritabanı Şeması
-<img width="100%" alt="Yıldız Şema Diyagramı" src="yildiz_sema_diyagrami.png" />
+<img width="100%" alt="Yıldız Şema Diyagramı" src="Ekran görüntüsü 2026-09-18 110503.png" />
 
 ---
 

@@ -17,8 +17,7 @@ Bu proje; 200.000 satırlık pazarlama kampanya verisinin ham durumdan alınarak
 
 | 1. Genel Bakış (Overview) | 2. Kanal & Kampanya Türü Analizi |
 | :---: | :---: |
-| <img width="1197" height="676" alt="Ekran görüntüsü 2026-09-21 204539" src="https://github.com/user-attachments/assets/61dfa4ad-1af3-4bb4-8ab5-18312d8fae1b" /> |
-| <img width="1196" height="668" alt="Ekran görüntüsü 2026-09-21 204550" src="https://github.com/user-attachments/assets/f919f0e0-4c14-4cd2-9f3d-4246c241149a" /> |
+| <img width="1197" height="676" alt="Ekran görüntüsü 2026-09-21 204539" src="https://github.com/user-attachments/assets/61dfa4ad-1af3-4bb4-8ab5-18312d8fae1b" /> | | <img width="1196" height="668" alt="Ekran görüntüsü 2026-09-21 204550" src="https://github.com/user-attachments/assets/f919f0e0-4c14-4cd2-9f3d-4246c241149a" /> |
 
 ### 3. Zaman Bazlı Performans Trendleri
 

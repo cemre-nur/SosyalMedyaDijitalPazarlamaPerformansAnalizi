@@ -15,14 +15,14 @@ Bu proje; 200.000 satırlık pazarlama kampanya verisinin ham durumdan alınarak
 
 ## 🖥️ Power BI Dashboard Görünümü
 
-| 1. Genel Bakış (Overview) | 2. Kanal & Kampanya Türü Analizi |
-| :---: | :---: |
-| <img width="1197" height="676" alt="Ekran görüntüsü 2026-09-21 204539" src="https://github.com/user-attachments/assets/61dfa4ad-1af3-4bb4-8ab5-18312d8fae1b" /> | 
-| <img width="1196" height="668" alt="Ekran görüntüsü 2026-09-21 204550" src="https://github.com/user-attachments/assets/f919f0e0-4c14-4cd2-9f3d-4246c241149a" /> |
+### 1. Genel Bakış (Overview)
+<img width="100%" alt="Ekran görüntüsü 2026-09-21 204539" src="https://github.com/user-attachments/assets/61dfa4ad-1af3-4bb4-8ab5-18312d8fae1b" />
+
+### 2. Kanal & Kampanya Türü Analizi
+<img width="100%" alt="Ekran görüntüsü 2026-09-21 204550" src="https://github.com/user-attachments/assets/f919f0e0-4c14-4cd2-9f3d-4246c241149a" />
 
 ### 3. Zaman Bazlı Performans Trendleri
-
-<img width="1197" height="667" alt="Ekran görüntüsü 2026-09-21 204606" src="https://github.com/user-attachments/assets/fa4acc94-95ba-4624-b5e6-b3740d9a658a" />
+<img width="100%" alt="Ekran görüntüsü 2026-09-21 204606" src="https://github.com/user-attachments/assets/fa4acc94-95ba-4624-b5e6-b3740d9a658a" />
 
 ---
 
